@@ -23,7 +23,7 @@
   </tr>
 
   <tr>
-    <th colspan="6" align="center">
+    <th colspan="6" align="center" width="1200px">
       <h3><a href="/README.md#-plugins">📞 연락처 </a></h3>
     </th>
   </tr>
@@ -59,6 +59,9 @@
       <h3><a href="/README.md#-plugins">👩🏻‍💻 Project Experience </a></h3>
     </th>
   </tr>
+
+
+
 
   <!-- project() -->
   <tr>
