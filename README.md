@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" width="25%">
-    <img alt="" width="300" src="https://github.com/user-attachments/assets/13452894-aded-4f2b-96e9-b22974809423" alt=""></img>
+    <img alt="" width="200" src="https://github.com/user-attachments/assets/13452894-aded-4f2b-96e9-b22974809423" alt=""></img>
     </td>
     <td colspan="4" align="center" width="75%">
     <h2 style="border-bottom: none;">
@@ -23,7 +23,7 @@
   </tr>
 
   <tr>
-    <th colspan="6" align="center" width="1200px">
+    <th colspan="6" align="center">
       <h3><a href="/README.md#-plugins">📞 연락처 </a></h3>
     </th>
   </tr>
@@ -59,9 +59,6 @@
       <h3><a href="/README.md#-plugins">👩🏻‍💻 Project Experience </a></h3>
     </th>
   </tr>
-
-
-
 
   <!-- project() -->
   <tr>
