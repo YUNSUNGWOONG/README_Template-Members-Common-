@@ -23,7 +23,7 @@
   </tr>
 
   <tr>
-    <th colspan="6" align="center" width="1200px">
+    <th colspan="6" align="center" width="1200px"> <!--깨진다 싶으면 이거 width="1200px"제거하기 -->
       <h3><a href="/README.md#-plugins">📞 연락처 </a></h3>
     </th>
   </tr>
